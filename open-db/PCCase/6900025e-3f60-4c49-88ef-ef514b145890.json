@@ -1,7 +1,7 @@
 {
   "opendb_id": "6900025e-3f60-4c49-88ef-ef514b145890",
   "metadata": {
-    "name": "Corsair 9000D ATX Full Tower RGB AIRFLOW",
+    "name": "Corsair 9000D RGB AIRFLOW Super Full-Tower PC Case",
     "manufacturer": "Corsair",
     "part_numbers": [
       "CC-9011273-WW"
@@ -9,22 +9,58 @@
     "series": "9000D",
     "variant": ""
   },
-  "form_factor": "ATX Full Tower",
+  "form_factor/case_size": "ATX Full Super-Tower"
   "color": [
     "BLACK"
   ],
   "power_supply": "None",
-  "side_panel": "Tempered Glass",
+  "left_side_panel": "Tempered Glass",
   "has_transparent_side_panel": true,
-  "front_panel_usb": "USB 3.2 Gen 2 Type-C                                                    USB 3.2 Gen 1 Type-A",
-  "max_video_card_length": 400,
-  "max_cpu_cooler_height": null,
+  "right_side_panel": "Steel"
+  "case_front_panel_IO": "(2x USB 3.2 Gen 2 Type C, (4x) USB 3.2 Gen 1 Type A, (1x) Audio in/out"
   "internal_3_5_bays": 5,
   "internal_2_5_bays": 6,
+  "max_video_card_length": 580,
+  "max_cpu_cooler_height": 180,
   "expansion_slots": 8,
   "dimensions": "698 x 307 x 698",
   "volume": 149.572,
-  "weight": null,
-  "supported_power_supply_form_factors": [],
+  "weight": 37.35,
+  "supported_power_supply_form_factors": "[ATX, SFX, SFX-L]",
   "general_product_information": {}
+  "material": "Steel, Tempered Glass"
+  "motherboard_support": "mini-ITX, Micro-ATX, ATX, E-ATX, SSI-EEB"
+  "front_IO_motherboard_connections": "1x HD Audio; 1x USB Type-E; 1x Supplemental SATA Power; 1x F_Panel"
+  "reverse_connector_motherboard_support": "Yes"
+  "included_fans": "N/A"
+  "dust_filtration": "Yes"
+  "cable_routing_space": "76"
+  "vertical_mount_support": "Support (Riser Card Sold Seperately)"
+  "case_expansion_slots": "8 Horizontal (or 4 Vertical_ x2 Vertical (For Secondary Motherboard)"
+  "case_accessories": "42x QuikTurn Fan Screws (Self-Tapping)"  
+    "case_accessories_cont'": "18x Motherboard / HDD Screws (6-32 UNC; 6mm"
+    "case_accessories_cont'": "12x SSD Screws (M3 x 0.5; 5mm"
+    "case_accessories_cont'": "12x Zip Ties"
+    "case_accessories_cont'": "6x Motherboard Standoffs (mITX Board Location + Spares)"
+    "case_accessories_cont'": "1x Front I/O Adapter"
+    "case_accessories_cont'": "6x 2.5 SSD Trays (preinstalled)"
+    "case_accessories_cont'": "5x 3.5 HDD Trays (preinstalled)"
+    "case_accessories_cont'": "1x iCUE LINK RGB Adapter (preinstalled)"
+    "case_accessories_cont'": "1x iCUE LINK System Hub (preinstalled)"
+    "case_accessories_cont'": "2x iCUE LINK 800 90⁰ to 90⁰ Cable"
+
+  "case_warranty": "2 Years"
+  ],
+  "radiator_compatibility": "480, 420, 400, 360, 280, 240, 200, 140, 120"
+  "compatible_liquid_coolers": "H60, H100, H115, H150, H170, NAUTILUS, TITAN"
+  "radiator_support_top": "480, 420, 400, 360, 280, 240, 200, 140, 120"
+  "radiator_support_front": "480, 420, 400, 360, 280, 240, 200, 140, 120"
+  "radiator_support_bottom": "N/A"
+  "radiator_support_side": "360, 240"
+  "radiator_support": "244, 140, 120"
+  "fan_support_top": "x8 120, x3 140, x2 200"
+  "fan_support_front": "x8 120, x3 140, x2 200"
+  "fan_support_bottom": "N/A"
+  "fan_support_side": "x3 120"
+  "fan_support_rear": "x2 120, x1 140"
 }
